@@ -6,7 +6,6 @@ Hello 👋 I’m Paresh Singh Rajput, a versatile Software Developer with a stro
 
 <br>Outside of coding, I have a passion for tech content writing and poetry, combining creativity with technical insights. A lifelong learner, I am always exploring new technologies to deliver innovative solutions.<br>
 
-![](https://komarev.com/ghpvc/?username=adityakumar28&color=447ff7&label=Visitor+count)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
